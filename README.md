@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JpVaranasi
+- 👋 Hi, I’m Jp Varanasi
 - 👀 I’m interested in python,html,css and js
 - 🌱 I’m currently learning all listed above lmao
 - 💞️ I’m looking to collaborate on intermediate projects
