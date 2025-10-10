@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jp Varanasi
-- 👀 I’m interested in python,html,css and js
-- 🌱 I’m currently learning all listed above lmao
-- 💞️ I’m looking to collaborate on intermediate projects
-- 📫 How to reach me: discord: Jp@7736, instagram : @jpvaranasi
+- 👀 I'm a 2nd year student @ USW
+- 🌱 I'm also a developer @USW Racing  
+- 💞️ Python,Js,C++,C#,React.Js,Tailwind,Django
+- 📫 How to reach me: jayaprakashvaranasi@gmail.com
+- Portfolio : jpvaranasi.com
 <!---
 JpVaranasi/JpVaranasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
